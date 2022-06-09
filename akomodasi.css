@@ -202,22 +202,6 @@ main {
     font-size: 12px;
 }
 
-.box .btn {
-    outline: none;
-    border: none;
-    padding: 5px 10px;
-    background: transparent;
-    cursor: pointer;
-    color: #fff;
-    margin: 10px 0 20px 0;
-    border: 1px solid #fff;
-    transition: all .5s;
-}
-
-.box .btn:hover {
-    padding: 5px 20px;
-}
-
 .text {
     background-color: rgba(0,0,0,.6);
     opacity: 0;
